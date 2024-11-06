@@ -19,6 +19,9 @@ List the user stories that guided the development of your application. Format th
 - As a user, I want to search vehicle by type (car, truck, SUV, van) so that I can find cars that match.
 - As a user, I want to add the new cars to the inventory so that I can manage the inventory.
 - As a user, I want to remove cars from the inventory so that I can manage the inventory.
+- As a programmer, I want to collect basic sales information from the user so that I can determine the prices of the vehicles.
+- As a user, I want to add the vehicle information to the contract so that I can find it later on the list.
+- As a programmer, I want to ask to the user if it is for a sale or lease so that I can determine the action and the list.
 
 
 ## Setup
@@ -47,6 +50,8 @@ Follow these steps to get your application running within IntelliJ IDEA:
 
 ## Demo
 
+- Contract Demo ![contractDemo.png](imgs/contractDemo.png)
+- Sale Demo ![saleDemo.png](imgs/saleDemo.png)
 - AddVehicle ![addVehicle.png](imgs/addVehicle.png)
 - FoundByColor ![foundByColor.png](imgs/foundByColor.png)
 - FoundByMake/Model ![foundByMakeModel.png](imgs/foundByMakeModel.png)
@@ -60,7 +65,8 @@ Follow these steps to get your application running within IntelliJ IDEA:
 
 Outline potential future enhancements or functionalities you might consider adding:
 
--
+- Adding vehicle filtering options based on price, mileage, or year.
+- Implementing a graphical user interface (GUI) for an enhanced user experience.
 
 ## Resources
 
